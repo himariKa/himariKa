@@ -11,10 +11,10 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/himariKa/posts.svg" />
   </a>
   <a href="http://qiita.com/himari_karesaki">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/himariKa/contributions.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/himari_karesaki/contributions.svg" />
   </a>
   <a href="https://zenn.dev/kometsubu3">
-    <img height="20" src="https://badgen.org/img/zenn/himariKa/articles?style=plastic" />
+    <img height="20" src="https://badgen.org/img/zenn/kometsubu3/articles?style=plastic" />
   </a>
 </p>
 
