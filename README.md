@@ -17,3 +17,13 @@
     <img height="20" src="https://badgen.org/img/zenn/himariKa/articles?style=plastic" />
   </a>
 </p>
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himariKa&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himariKa&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himariKa&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=himariKa&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=himariKa&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
