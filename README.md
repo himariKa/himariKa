@@ -27,3 +27,6 @@
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
+
+![](https://raw.githubusercontent.com/himariKa/himariKa/output/github-contribution-grid-snake.svg)
+
